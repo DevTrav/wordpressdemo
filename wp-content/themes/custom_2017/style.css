@@ -1366,6 +1366,10 @@ a:hover .nav-title,
 .main-navigation .page_item_has_children > a > .icon,
 .main-navigation ul a > .icon {
 	display: none;
+	font-size: x-large;
+	font-family: 'Crimson Text', serif;
+	background-color: #666560 ;
+	
 }
 
 .main-navigation > div > ul {
@@ -3472,7 +3476,7 @@ p > object:only-child {
 
 	.navigation-top {
 		bottom: 0;
-		font-size: 14px;
+		font-size: 25px;
 		font-size: 0.875rem;
 		left: 0;
 		position: absolute;
